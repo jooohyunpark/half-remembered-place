@@ -1,1 +1,1 @@
-Procedural planet landscape.
+Procedural landscape of solitude planet.
